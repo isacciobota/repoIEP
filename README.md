@@ -3,10 +3,10 @@ Make sure that objects are initialized before they’re used.
 
 ## Item 5 
 Know what functions C++ silently writes and calls.
-    - default constructor
-    - copy constructor
-    - destructor
-    - copy assignment operator
+* default constructor
+* copy constructor
+* destructor
+* copy assignment operator
 ## Item 6
 Explicitly disallow the use of compiler generated functions you do not want
 * copy constructor and copy assignment constructor can't be called
