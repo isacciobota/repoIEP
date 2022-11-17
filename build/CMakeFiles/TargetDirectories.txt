@@ -1,0 +1,3 @@
+D:/Facultate/An IV/PAOO/Lucrarea 4/build/CMakeFiles/Lucrarea4.dir
+D:/Facultate/An IV/PAOO/Lucrarea 4/build/CMakeFiles/edit_cache.dir
+D:/Facultate/An IV/PAOO/Lucrarea 4/build/CMakeFiles/rebuild_cache.dir
