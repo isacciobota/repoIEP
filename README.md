@@ -1,6 +1,14 @@
 # Resources
 Effective C++ 55 Specific Ways to Improve Your Programs and Designs  (Third Edition), Scott Meyers
 
+# Build commands
+Modify CMakeLists.txt first!
+```
+cd build
+cmake ../
+MinGW32-make
+```
+
 # Lucrarea 4
 ### Item 4
 Make sure that objects are initialized before they’re used.
