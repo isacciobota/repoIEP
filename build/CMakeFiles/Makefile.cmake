@@ -28,7 +28,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake"
-  "D:/Facultate/An IV/PAOO/Lucrarea 4/CMakeLists.txt"
+  "D:/Facultate/An IV/PAOO/Teme/CMakeLists.txt"
   "CMakeFiles/3.25.0-rc4/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.0-rc4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.0-rc4/CMakeRCCompiler.cmake"
@@ -48,5 +48,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/Lucrarea4.dir/DependInfo.cmake"
+  "CMakeFiles/Lucrarea5.dir/DependInfo.cmake"
   )

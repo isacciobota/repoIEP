@@ -1,8 +1,8 @@
-# Install script for directory: D:/Facultate/An IV/PAOO/Lucrarea 4
+# Install script for directory: D:/Facultate/An IV/PAOO/Teme
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Lucrarea4")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Lucrarea5")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Facultate/An IV/PAOO/Lucrarea 4/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Facultate/An IV/PAOO/Teme/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

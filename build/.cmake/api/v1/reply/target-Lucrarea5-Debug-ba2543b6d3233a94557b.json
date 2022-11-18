@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Lucrarea4.exe"
+			"path" : "Lucrarea5.exe"
 		},
 		{
-			"path" : "Lucrarea4.pdb"
+			"path" : "Lucrarea5.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -48,7 +48,7 @@
 			]
 		}
 	],
-	"id" : "Lucrarea4::@6890427a1f51a3e7e1df",
+	"id" : "Lucrarea5::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -68,8 +68,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Lucrarea4",
-	"nameOnDisk" : "Lucrarea4.exe",
+	"name" : "Lucrarea5",
+	"nameOnDisk" : "Lucrarea5.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -90,7 +90,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Lucrarea4.cpp",
+			"path" : "Lucrarea5.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

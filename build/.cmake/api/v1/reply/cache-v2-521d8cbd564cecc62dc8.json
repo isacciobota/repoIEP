@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Facultate/An IV/PAOO/Lucrarea 4/build"
+			"value" : "d:/Facultate/An IV/PAOO/Teme/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Facultate/An IV/PAOO/Lucrarea 4/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/Facultate/An IV/PAOO/Teme/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Facultate/An IV/PAOO/Lucrarea 4"
+			"value" : "D:/Facultate/An IV/PAOO/Teme"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Lucrarea4"
+			"value" : "C:/Program Files (x86)/Lucrarea5"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -891,7 +891,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Lucrarea4"
+			"value" : "Teme"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1270,7 +1270,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Lucrarea4_BINARY_DIR",
+			"name" : "Lucrarea5_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1279,10 +1279,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Facultate/An IV/PAOO/Lucrarea 4/build"
+			"value" : "D:/Facultate/An IV/PAOO/Teme/build"
 		},
 		{
-			"name" : "Lucrarea4_IS_TOP_LEVEL",
+			"name" : "Lucrarea5_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1294,7 +1294,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Lucrarea4_SOURCE_DIR",
+			"name" : "Lucrarea5_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1303,7 +1303,43 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Facultate/An IV/PAOO/Lucrarea 4"
+			"value" : "D:/Facultate/An IV/PAOO/Teme"
+		},
+		{
+			"name" : "Teme_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/Facultate/An IV/PAOO/Teme/build"
+		},
+		{
+			"name" : "Teme_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Teme_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "D:/Facultate/An IV/PAOO/Teme"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

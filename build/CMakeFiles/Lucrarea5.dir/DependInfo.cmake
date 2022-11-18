@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Facultate/An IV/PAOO/Lucrarea 4/Lucrarea4.cpp" "CMakeFiles/Lucrarea4.dir/Lucrarea4.cpp.obj" "gcc" "CMakeFiles/Lucrarea4.dir/Lucrarea4.cpp.obj.d"
+  "D:/Facultate/An IV/PAOO/Teme/Lucrarea5.cpp" "CMakeFiles/Lucrarea5.dir/Lucrarea5.cpp.obj" "gcc" "CMakeFiles/Lucrarea5.dir/Lucrarea5.cpp.obj.d"
   )
 
 # Targets to which this target links.

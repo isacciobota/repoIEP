@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Lucrarea4.dir/objects.a
-C:\MinGW\bin\ar.exe qc CMakeFiles\Lucrarea4.dir/objects.a @CMakeFiles\Lucrarea4.dir\objects1
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Lucrarea4.dir/objects.a -Wl,--no-whole-archive -o Lucrarea4.exe -Wl,--out-implib,libLucrarea4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lucrarea4.dir\linkLibs.rsp

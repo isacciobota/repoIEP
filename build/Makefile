@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\Facultate\An IV\PAOO\Lucrarea 4"
+CMAKE_SOURCE_DIR = "D:\Facultate\An IV\PAOO\Teme"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\Facultate\An IV\PAOO\Lucrarea 4\build"
+CMAKE_BINARY_DIR = "D:\Facultate\An IV\PAOO\Teme\build"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Facultate\An IV\PAOO\Lucrarea 4\build\CMakeFiles" "D:\Facultate\An IV\PAOO\Lucrarea 4\build\\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Facultate\An IV\PAOO\Teme\build\CMakeFiles" "D:\Facultate\An IV\PAOO\Teme\build\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Facultate\An IV\PAOO\Lucrarea 4\build\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Facultate\An IV\PAOO\Teme\build\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -116,41 +116,41 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Lucrarea4
+# Target rules for targets named Lucrarea5
 
 # Build rule for target.
-Lucrarea4: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Lucrarea4
-.PHONY : Lucrarea4
+Lucrarea5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Lucrarea5
+.PHONY : Lucrarea5
 
 # fast build rule for target.
-Lucrarea4/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea4.dir\build.make CMakeFiles/Lucrarea4.dir/build
-.PHONY : Lucrarea4/fast
+Lucrarea5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea5.dir\build.make CMakeFiles/Lucrarea5.dir/build
+.PHONY : Lucrarea5/fast
 
-Lucrarea4.obj: Lucrarea4.cpp.obj
-.PHONY : Lucrarea4.obj
+Lucrarea5.obj: Lucrarea5.cpp.obj
+.PHONY : Lucrarea5.obj
 
 # target to build an object file
-Lucrarea4.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea4.dir\build.make CMakeFiles/Lucrarea4.dir/Lucrarea4.cpp.obj
-.PHONY : Lucrarea4.cpp.obj
+Lucrarea5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea5.dir\build.make CMakeFiles/Lucrarea5.dir/Lucrarea5.cpp.obj
+.PHONY : Lucrarea5.cpp.obj
 
-Lucrarea4.i: Lucrarea4.cpp.i
-.PHONY : Lucrarea4.i
+Lucrarea5.i: Lucrarea5.cpp.i
+.PHONY : Lucrarea5.i
 
 # target to preprocess a source file
-Lucrarea4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea4.dir\build.make CMakeFiles/Lucrarea4.dir/Lucrarea4.cpp.i
-.PHONY : Lucrarea4.cpp.i
+Lucrarea5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea5.dir\build.make CMakeFiles/Lucrarea5.dir/Lucrarea5.cpp.i
+.PHONY : Lucrarea5.cpp.i
 
-Lucrarea4.s: Lucrarea4.cpp.s
-.PHONY : Lucrarea4.s
+Lucrarea5.s: Lucrarea5.cpp.s
+.PHONY : Lucrarea5.s
 
 # target to generate assembly for a file
-Lucrarea4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea4.dir\build.make CMakeFiles/Lucrarea4.dir/Lucrarea4.cpp.s
-.PHONY : Lucrarea4.cpp.s
+Lucrarea5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea5.dir\build.make CMakeFiles/Lucrarea5.dir/Lucrarea5.cpp.s
+.PHONY : Lucrarea5.cpp.s
 
 # Help Target
 help:
@@ -160,10 +160,10 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Lucrarea4
-	@echo ... Lucrarea4.obj
-	@echo ... Lucrarea4.i
-	@echo ... Lucrarea4.s
+	@echo ... Lucrarea5
+	@echo ... Lucrarea5.obj
+	@echo ... Lucrarea5.i
+	@echo ... Lucrarea5.s
 .PHONY : help
 
 
