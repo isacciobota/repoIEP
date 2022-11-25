@@ -32,3 +32,12 @@ Assignment operators return a reference to *this
 ### Item 12
 * copying functions should be sure to copy all of an object’s data members and all of its base class parts
 * don’t try to implement one of the copying functions in terms of the other. Instead, put common functionality in a third function that both call
+
+# Lucrarea 6
+### Item 13
+* Use objects to manage resources
+* `auto_ptr` automatically deletes what it points to when the auto_ptr is destroyed
+* `auto_ptr` has an unusual characteristic: copying them (via copy constructor or copy assignment operator) sets them to null, and the copying pointer
+assumes sole ownership of the resource
+* `shared_ptr` is usually the better choice than `auto_ptr`, because its behavior when copied is intuitive
+### Item 14
