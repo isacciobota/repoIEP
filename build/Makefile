@@ -116,41 +116,41 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Lucrarea5
+# Target rules for targets named Lucrarea6
 
 # Build rule for target.
-Lucrarea5: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Lucrarea5
-.PHONY : Lucrarea5
+Lucrarea6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Lucrarea6
+.PHONY : Lucrarea6
 
 # fast build rule for target.
-Lucrarea5/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea5.dir\build.make CMakeFiles/Lucrarea5.dir/build
-.PHONY : Lucrarea5/fast
+Lucrarea6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea6.dir\build.make CMakeFiles/Lucrarea6.dir/build
+.PHONY : Lucrarea6/fast
 
-Lucrarea5.obj: Lucrarea5.cpp.obj
-.PHONY : Lucrarea5.obj
+Lucrarea6.obj: Lucrarea6.cpp.obj
+.PHONY : Lucrarea6.obj
 
 # target to build an object file
-Lucrarea5.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea5.dir\build.make CMakeFiles/Lucrarea5.dir/Lucrarea5.cpp.obj
-.PHONY : Lucrarea5.cpp.obj
+Lucrarea6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea6.dir\build.make CMakeFiles/Lucrarea6.dir/Lucrarea6.cpp.obj
+.PHONY : Lucrarea6.cpp.obj
 
-Lucrarea5.i: Lucrarea5.cpp.i
-.PHONY : Lucrarea5.i
+Lucrarea6.i: Lucrarea6.cpp.i
+.PHONY : Lucrarea6.i
 
 # target to preprocess a source file
-Lucrarea5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea5.dir\build.make CMakeFiles/Lucrarea5.dir/Lucrarea5.cpp.i
-.PHONY : Lucrarea5.cpp.i
+Lucrarea6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea6.dir\build.make CMakeFiles/Lucrarea6.dir/Lucrarea6.cpp.i
+.PHONY : Lucrarea6.cpp.i
 
-Lucrarea5.s: Lucrarea5.cpp.s
-.PHONY : Lucrarea5.s
+Lucrarea6.s: Lucrarea6.cpp.s
+.PHONY : Lucrarea6.s
 
 # target to generate assembly for a file
-Lucrarea5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea5.dir\build.make CMakeFiles/Lucrarea5.dir/Lucrarea5.cpp.s
-.PHONY : Lucrarea5.cpp.s
+Lucrarea6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lucrarea6.dir\build.make CMakeFiles/Lucrarea6.dir/Lucrarea6.cpp.s
+.PHONY : Lucrarea6.cpp.s
 
 # Help Target
 help:
@@ -160,10 +160,10 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Lucrarea5
-	@echo ... Lucrarea5.obj
-	@echo ... Lucrarea5.i
-	@echo ... Lucrarea5.s
+	@echo ... Lucrarea6
+	@echo ... Lucrarea6.obj
+	@echo ... Lucrarea6.i
+	@echo ... Lucrarea6.s
 .PHONY : help
 
 
